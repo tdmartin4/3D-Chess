@@ -1,5 +1,5 @@
 # 3D-Chess
 ## Yea
-![Alt text](/chess-trimmed.mov?raw=true "Demo")
+![Alt text](/chess-trimmed.gif?raw=true "Demo")
 
 ## Contributors 
